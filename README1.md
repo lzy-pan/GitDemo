@@ -1,6 +1,6 @@
 # 雷神的自我介绍
 
-<img src="https://github.com/lzy-pan/GitDemo/blob/main/%E5%9B%BE%E7%89%87/20200812180313_ikevv.jpg" width="200" alt="雷神形象">
+<img src="https://github.com/lzy-pan/GitDemo/blob/master/%E5%9B%BE%E7%89%87/%E9%9B%B7%E7%A5%9E.jpg" width="200" alt="雷神形象">
 
 大家好，我是**雷电将军**，我的身份是*稻妻的统治者*。以下是我的自我介绍：
 
@@ -50,10 +50,10 @@ print(np.array([1, 2, 3]) ** 2)
 ```
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 ### 我最喜欢的环境管理工具人是八重樱
-<img src="https://github.com/lzy-pan/GitDemo/blob/main/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-13%20095227.png" width="800" alt="截图一">
+<img src="https://github.com/lzy-pan/GitDemo/blob/master/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-13%20095227.png" width="800" alt="截图一">
 
 ### 我可以在打造自己的净土
-<img src="https://github.com/lzy-pan/GitDemo/blob/main/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-20%20100407.png" width="800" alt="截图二">
+<img src="https://github.com/lzy-pan/GitDemo/blob/master/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-20%20100407.png" width="800" alt="截图二">
 
 ##  我的目标
 我追求的“永恒”，是稻妻的长存与繁荣。我希望稻妻能够永远强大，永远繁荣。我知道这是一条艰难的道路，但我从未放弃。我会继续努力，为了稻妻的未来而战斗。
